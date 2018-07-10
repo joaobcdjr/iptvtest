@@ -1,0 +1,22 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="ABERTOS",REDE TV
+http://evpp.mm.uol.com.br/redetv2/redetv2/playlist.m3u
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="ABERTOS",SBT
+http://evpp.mm.uol.com.br/ne10/ne10.smil/playlist.m3u8?EDSONSOUSALIST
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="ABERTOS",Rede Brasil
+https://59f1cbe63db89.streamlock.net:1443/rbtv/rbtv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="INFANTIL",BabyTV
+http://wowza2.mysoltv.com:1992/UK_UK_Baby/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="ESPORTES",FIGHT NETWORK
+http://tv.bmx-tv.top:1935/live/2.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://s26.postimg.org/dofeqo2wp/3be22a27a0123eabc4717396042f9217.png" group-title="MÚSICA",Monte Carlo
+http://fms.105.net:1935/live/rmc1/chunklist_w210499975.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.satelity.ellano.sk/odkaz_image/RETRO_MUSIC_TV.JPG" group-title="MÚSICA", Retro Music
+http://stream.mediawork.cz/retrotv//retrotvHQ1/playlist.m3u8

@@ -1,10 +1,13 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="CANAIS", RedeTV!
-http://evpp.mm.uol.com.br/redetv2/redetv2/playlist.m3u
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Sem grupo",Rede Globo RJ HD
+https://minhalista.live/channel/643142/joaobcdjr/redirect
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="CANAIS", Band
-http://89.163.146.52:25461/live/987fdg78oisaudoaisudoiasudoiasid897928ysfd/kjsdhkj54hkj75h5lkj8hklyhrfitfd87adoiasodiudaopdq8e938749837432uioqwoeiuiqwqweudaafuiftga====/1861.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/images/channels/738e14b89669c811e935d88f554c7d79_online.jpg" group-title="CANAIS", RedeTV!
+https://minhalista.live/channel/469557/joaobcdjr/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/images/channels/b7da52237e7925b2dda1e30612db87f8_offline_watched.jpg" group-title="CANAL ABERTO",BAND
+https://minhalista.live/channel/641014/listasiptv-online/redirect
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="CANAIS", SBT
 http://tvsd2.zoeweb.tv:1935/tvsd2/smil:tvsd2.smil/playlist.m3u8?LISTASDAGLAU
@@ -12,29 +15,29 @@ http://tvsd2.zoeweb.tv:1935/tvsd2/smil:tvsd2.smil/playlist.m3u8?LISTASDAGLAU
 #EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="CANAIS", Rede Brasil
 https://59f1cbe63db89.streamlock.net:1443/rbtv/rbtv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="CANAIS", BabyTV
-http://wowza2.mysoltv.com:1992/UK_UK_Baby/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/images/channels/4a64e97c3847750fd5407b249049c459_offline.jpg" group-title="CANAIS INFANTIL",BABY TV
+https://minhalista.live/channel/641200/listasiptv-online/redirect
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="CANAIS",GLOBO NEWS
-http://89.163.146.52:25461/live/987fdg78oisaudoaisudoiasudoiasid897928ysfd/kjsdhkj54hkj75h5lkj8hklyhrfitfd87adoiasodiudaopdq8e938749837432uioqwoeiuiqwqweudaafuiftga====/1809.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="NOTÍCIAS",GLOBO NEWS
+https://minhalista.live/channel/641060/listasiptv-online/redirect
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="CANAIS",BAND NEWS
-http://89.163.146.52:25461/live/987fdg78oisaudoaisudoiasudoiasid897928ysfd/kjsdhkj54hkj75h5lkj8hklyhrfitfd87adoiasodiudaopdq8e938749837432uioqwoeiuiqwqweudaafuiftga====/1859.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="NOTÍCIAS",BAND NEWS
+https://minhalista.live/channel/641015/listasiptv-online/redirect
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="CANAIS",COMBATE
-http://89.163.146.52:25461/live/987fdg78oisaudoaisudoiasudoiasid897928ysfd/kjsdhkj54hkj75h5lkj8hklyhrfitfd87adoiasodiudaopdq8e938749837432uioqwoeiuiqwqweudaafuiftga====/1852.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="ESPORTES",COMBATE
+https://minhalista.live/channel/641030/listasiptv-online/redirect
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="CANAIS", Fight Network
 http://tv.bmx-tv.top:1935/live/2.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="CANAIS", TOP TV
-http://sateg.cdnseguro.com/toptv/toptv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/images/channels/7179b655f186e4e6f6ffda21525e2152_online_watched.jpg" group-title="VARIEDADES",TOP TV
+https://minhalista.live/channel/641156/listasiptv-online/redirect
 
 #EXTINF:-1 tvg-logo="http://s26.postimg.org/dofeqo2wp/3be22a27a0123eabc4717396042f9217.png" group-title="CANAIS", Radio Monte Carlo TV
 http://fms.105.net:1935/live/rmc1/chunklist_w210499975.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.satelity.ellano.sk/odkaz_image/RETRO_MUSIC_TV.JPG" group-title="CANAIS", Retro Music
-http://stream.mediawork.cz/retrotv//retrotvHQ1/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/images/channels/39449ddb1c391cbfaa839b55e77ac560_online.jpg" group-title="CANAIS", Retro Music
+https://minhalista.live/channel/506120/joaobcdjr/redirect
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="CANAIS",Diarista Safadona
 http://media.pornocarioca.com/videos/mp4/8256/8256.mp4?LHMTv
@@ -53,5 +56,4 @@ http://media.pornocarioca.com/videos/mp4/7912/7912.mp4?LHMTv
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="CANAIS",As Panteras - Incesto 7
 http://gzmbu8bjh3.singularcdn.net.br/get_file/1/fe900c9da9b70b45716793b2ec6d496c00bec5df75/22000/22160/22160_480p.mp4?LISTABYPEDROJUNIORTUTORIAIS
-
 

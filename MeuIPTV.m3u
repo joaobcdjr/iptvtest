@@ -1,59 +1,56 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Sem grupo",Rede Globo RJ HD
+#EXTINF:-1 tvg-id=" <channel update="i" site="meuguia.tv" site_id="canal/GRJ" xmltv_id="Globo - RJ [Brazil]">Globo - RJ [Brazil]</channel>" tvg-logo="https://seeklogo.com/images/R/rede-globo-logo-817F928B4F-seeklogo.com.jpg" group-title="CANAIS", Rede Globo RJ HD
 https://minhalista.live/channel/643142/joaobcdjr/redirect
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/images/channels/738e14b89669c811e935d88f554c7d79_online.jpg" group-title="CANAIS", RedeTV!
+#EXTINF:-1 tvg-id="<channel update="i" site="meuguia.tv" site_id="canal/RTV" xmltv_id="Rede TV [Brazil]">Rede TV [Brazil]</channel>" tvg-logo="ttps://upload.wikimedia.org/wikipedia/pt/1/1d/LOGO_REDETV%21.png" group-title="CANAIS", RedeTV!
 https://minhalista.live/channel/469557/joaobcdjr/redirect
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/images/channels/b7da52237e7925b2dda1e30612db87f8_offline_watched.jpg" group-title="CANAL ABERTO",BAND
+#EXTINF:-1 tvg-id="<channel update="i" site="meuguia.tv" site_id="canal/BAN" xmltv_id="Band Rede [Brazil]">Band Rede [Brazil]</channel>" tvg-logo="https://thumb.lovemondays.com.br/yVBjDuEa4Gn3lVzgabKKB3J_V7E=/102x102/https://media.lovemondays.com.br/logos/ed4a26/rede-bandeirantes-original.jpg" group-title="CANAIS",BAND
 https://minhalista.live/channel/641014/listasiptv-online/redirect
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="CANAIS", SBT
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.sbt.com.br/home-nova/img/logosbt.png" group-title="CANAIS", SBT
 http://tvsd2.zoeweb.tv:1935/tvsd2/smil:tvsd2.smil/playlist.m3u8?LISTASDAGLAU
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="CANAIS", Rede Brasil
+#EXTINF:-1 tvg-id="" tvg-logo="https://blogdoarmindo.com.br/wp-content/uploads/2018/03/LOGO-RBTV-Alta-resolu%C3%A7%C3%A3o-Small-480x430.png" group-title="CANAIS", Rede Brasil
 https://59f1cbe63db89.streamlock.net:1443/rbtv/rbtv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/images/channels/4a64e97c3847750fd5407b249049c459_offline.jpg" group-title="CANAIS INFANTIL",BABY TV
+#EXTINF:-1 tvg-id="<channel update="i" site="meuguia.tv" site_id="canal/BAB" xmltv_id="Baby TV [Brazil]">Baby TV [Brazil]</channel>" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/c/ca/Baby_TV.png" group-title="CANAIS", BABY TV
 https://minhalista.live/channel/641200/listasiptv-online/redirect
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="NOTÍCIAS",GLOBO NEWS
+#EXTINF:-1 tvg-id="<channel update="i" site="meuguia.tv" site_id="canal/GLN" xmltv_id="Globo News [Brazil]">Globo News [Brazil]</channel>" tvg-logo="https://cdn6.aptoide.com/imgs/7/1/9/719189c99c642536c37f0941fb33706c_screen.png" group-title="CANAIS",GLOBO NEWS
 https://minhalista.live/channel/641060/listasiptv-online/redirect
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="NOTÍCIAS",BAND NEWS
+#EXTINF:-1 tvg-id="<channel update="i" site="meuguia.tv" site_id="canal/NEW" xmltv_id="Band News [Brazil]">Band News [Brazil]</channel>" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="CANAIS",BAND NEWS
 https://minhalista.live/channel/641015/listasiptv-online/redirect
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="ESPORTES",COMBATE
+#EXTINF:-1 tvg-id="<channel update="i" site="meuguia.tv" site_id="canal/135" xmltv_id="Combate [Brazil]">Combate [Brazil]</channel>" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="CANAIS",COMBATE
 https://minhalista.live/channel/641030/listasiptv-online/redirect
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="CANAIS", Fight Network
 http://tv.bmx-tv.top:1935/live/2.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/images/channels/7179b655f186e4e6f6ffda21525e2152_online_watched.jpg" group-title="VARIEDADES",TOP TV
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/images/channels/7179b655f186e4e6f6ffda21525e2152_online_watched.jpg" group-title="CANAIS", TOP TV
 https://minhalista.live/channel/641156/listasiptv-online/redirect
 
 #EXTINF:-1 tvg-logo="http://s26.postimg.org/dofeqo2wp/3be22a27a0123eabc4717396042f9217.png" group-title="CANAIS", Radio Monte Carlo TV
 http://fms.105.net:1935/live/rmc1/chunklist_w210499975.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/images/channels/39449ddb1c391cbfaa839b55e77ac560_online.jpg" group-title="CANAIS", Retro Music
+#EXTINF:-1 tvg-id=" <channel update="i" site="tv.sms.cz.m" site_id="Retro+Music" xmltv_id="Retro Music">Retro Music</channel>" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/images/channels/39449ddb1c391cbfaa839b55e77ac560_online.jpg" group-title="CANAIS", Retro Music
 https://minhalista.live/channel/506120/joaobcdjr/redirect
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="CANAIS",Diarista Safadona
-http://media.pornocarioca.com/videos/mp4/8256/8256.mp4?LHMTv
+#EXTINF:-1 tvg-id="" tvg-logo="https://seeklogo.com/images/K/Kiss_fm_102_1-logo-7C86C839BF-seeklogo.com.png" group-title="RADIOS", Kiss Fm
+http://stm50.sateg.com.br:26840/
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="CANAIS",Ingenua mas cheia de vontade
-http://media.pornocarioca.com/videos/mp4/7085/7085.mp4?LHMTv
+#EXTINF:-1 tvg-id="" tvg-logo="http://player.rockfmrio.com/img/LogoPlayer.png" group-title="RADIOS", Rock Fm
+http://104.156.244.180:8484/
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="CANAIS",Putanas de pijama
-http://media.pornocarioca.com/videos/mp4/8010/8010.mp4?LHMTv
+#EXTINF:-1 tvg-id="" tvg-logo="https://pt.wikipedia.org/wiki/R%C3%A1dio_Cidade_(Rio_de_Janeiro)#/media/File:Logotipo_da_R%C3%A1dio_Cidade_(Rio_de_Janeiro).png" group-title="RADIOS", Rádio Cidade
+https://20823.live.streamtheworld.com/RADIOCIDADEAAC.aac
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="CANAIS",Beleza Negra
-http://media.pornocarioca.com/videos/mp4/7994/7994.mp4?LHMTv
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/7/79/Logotipo_da_JB_FM.png" group-title="RADIOS", JB FM
+https://14103.live.streamtheworld.com/JBFM.mp3
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="CANAIS",Primeira Vez da Gostosa no Motel
-http://media.pornocarioca.com/videos/mp4/7912/7912.mp4?LHMTv
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="CANAIS",As Panteras - Incesto 7
-http://gzmbu8bjh3.singularcdn.net.br/get_file/1/fe900c9da9b70b45716793b2ec6d496c00bec5df75/22000/22160/22160_480p.mp4?LISTABYPEDROJUNIORTUTORIAIS
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.antena1.com.br/Logo-default.png" group-title="RADIOS", Antena1
+https://antenaone.crossradio.com.br/stream/1
 
